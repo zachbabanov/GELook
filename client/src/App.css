@@ -1,0 +1,23 @@
+#filter-and-items-container {
+  margin: 60px 5%;
+  display: flex;
+  user-select: none;
+}
+
+.filter-container {
+  margin-left: 3%;
+  margin-top: -15px;
+  flex-shrink: 0;
+  flex-basis: 18%;
+}
+
+.items-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  flex-shrink: 0;
+  flex-basis: 80%;
+  padding: 4%;
+  padding-right: 5%;
+  background-color: white;
+  border-radius: 10px;
+}
