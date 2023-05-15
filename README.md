@@ -1,6 +1,10 @@
 # GELook App
 
-В этом репозитории хранится приложение GELook, созданное на стэке HTML/CSS, React, Node/Express, MySQL.
+##Stack 
+  * HTML / CSS
+  * React.js
+  * Node.js / Express
+  * MySQL
 
 ## Установка
 
