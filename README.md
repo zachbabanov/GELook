@@ -1,6 +1,6 @@
 # GELook App
 
-##Stack 
+## Stack 
   * HTML / CSS
   * React.js
   * Node.js / Express
